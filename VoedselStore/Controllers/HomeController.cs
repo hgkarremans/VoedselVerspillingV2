@@ -5,21 +5,14 @@ namespace VoedselVerspilling.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly IProductRepository _productRepository;
-
-        /*public HomeController(IProductRepository productRepository)
+        private readonly IProductRepository repository;
+        public HomeController (IProductRepository repo)
         {
-            _productRepository = productRepository;
+            repository = repo;
         }
-
         public IActionResult Index()
         {
-            var products = _productRepository.GetAll();
-            return View(products);
-        }*/
-        public IActionResult Index()
-        {
-            return View();
+            return View(repository.GetAll);
         }
     }
 }

@@ -4,9 +4,8 @@ namespace VoedselVerspilling.Domain.Services
 {
     public interface IProductRepository
     {
-        IQueryable<Product> GetAll();
-        Product GetById(int Id);
-        void Add (Product product);
+        IQueryable<Product> GetAll { get; }
+
 
 
     }

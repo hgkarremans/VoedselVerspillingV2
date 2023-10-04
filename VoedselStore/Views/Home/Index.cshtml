@@ -1,1 +1,9 @@
-﻿<h4>We working plz?test</h4>
+﻿
+<h1>Product List</h1>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.Name @product.ContainsAlcohol @product.Photo @product.Id</li>
+
+    }
+</ul>
