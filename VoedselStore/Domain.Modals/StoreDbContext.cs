@@ -11,5 +11,9 @@ namespace VoedselStore.Domain.Modals
             
         }
         public DbSet<Product> Products => Set<Product>();
+        public DbSet<Employee> Employees => Set<Employee>();
+        public DbSet<MealBox> Meals => Set<MealBox>();
+        public DbSet<Canteen> Canteens => Set<Canteen>();
+        public DbSet<Student> Students => Set<Student>();
     }
 }

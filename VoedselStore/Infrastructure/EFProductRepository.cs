@@ -6,7 +6,7 @@ using WebApplication1.Core.Domain.Model;
 namespace VoedselVerspilling.Infrastructure
 {
     public class EFProductRepository : IProductRepository { 
-        private StoreDbContext context;
+        private readonly StoreDbContext context;
 
         public EFProductRepository(StoreDbContext context)
         {

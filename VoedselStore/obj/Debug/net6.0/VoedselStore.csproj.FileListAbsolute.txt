@@ -21,7 +21,6 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\ref\VoedselStore.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\VoedselStore.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\VoedselStore.genruntimeconfig.cache
-C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\ref\VoedselStore.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Humanizer.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -56,3 +55,9 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\VoedselStore.csproj.CopyComplete
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\staticwebassets\msbuild.VoedselStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\staticwebassets\msbuild.build.VoedselStore.props
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VoedselStore.props
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VoedselStore.props
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\refint\VoedselStore.dll
