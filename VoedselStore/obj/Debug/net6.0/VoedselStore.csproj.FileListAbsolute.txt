@@ -48,7 +48,6 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\obj\Debug\net6.0\VoedselStore.csproj.CopyComplete
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\ref\VoedselStore.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -83,3 +82,5 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Domain.Services.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Persistence.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\VoedselStore.staticwebassets.runtime.json
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\ref\VoedselStore.dll

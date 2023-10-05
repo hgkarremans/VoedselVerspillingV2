@@ -1,7 +1,6 @@
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Persistence.deps.json
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Persistence.dll
-C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\ref\Persistence.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Persistence.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Core.Domain.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\Domain.Services.dll
@@ -17,3 +16,4 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\obj\Debug\net6.0\ref\Persistence.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Persistence\bin\Debug\net6.0\ref\Persistence.dll
