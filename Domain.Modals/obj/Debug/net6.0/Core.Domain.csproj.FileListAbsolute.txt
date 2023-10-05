@@ -1,0 +1,14 @@
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\bin\Debug\net6.0\Core.Domain.deps.json
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\bin\Debug\net6.0\Core.Domain.runtimeconfig.json
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\bin\Debug\net6.0\Core.Domain.dll
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\bin\Debug\net6.0\ref\Core.Domain.dll
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\bin\Debug\net6.0\Core.Domain.pdb
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.AssemblyInfo.cs
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.dll
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\ref\Core.Domain.dll
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.pdb
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Modals\obj\Debug\net6.0\Core.Domain.genruntimeconfig.cache
