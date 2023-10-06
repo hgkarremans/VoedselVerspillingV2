@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jIYPnxCaYmzAtu39njTlhUuJc45HHY+cJDgEPtX1fKDMnNYRP8jsbcTGKNJpuxhNBgZf3HPQQCHXW4OfclHgRA==",
+  "dgSpecHash": "lMwLwCGaIPNVZmUnC8oAVJ+yFmPksdDkFR3qqtW1/mKZgoJEjxG5HdYbgT8VMaGs9kygcf6v0lB+DYbHXE6/1A==",
   "success": true,
   "projectFilePath": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\Domain.Modals\\Core.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hgkar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\hgkar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\hgkar\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
     "C:\\Users\\hgkar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hgkar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\hgkar\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",

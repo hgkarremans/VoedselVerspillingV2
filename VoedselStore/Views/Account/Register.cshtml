@@ -1,0 +1,23 @@
+﻿@model VoedselStore.Models.LoginViewModel;
+@{
+    Layout = "_LoginLayout";
+    ViewData["Title"] = "Login";
+}
+
+<div class="m-1 p-1">
+    <div class="text-danger" asp-validation-summary="All"></div>
+    <form asp-action="Login" asp-controller="Account" method="post">
+
+        <div class="form-group">
+            <label asp-for="Email"></label>
+            <div asp-validation-for="Email" class="text-danger"></div>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Password"></label>
+            <div asp-validation-for="Password" class="text-danger"></div>
+            <input asp-for="Password" type="password" class="form-control" />
+        </div>
+        <button class="btn btn-primary mt-2" type="submit">Log In</button>
+    </form>
+</div>

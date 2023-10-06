@@ -83,4 +83,5 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Persistence.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\Core.Domain.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\VoedselStore.staticwebassets.runtime.json
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\libman.json
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\VoedselStore\bin\Debug\net6.0\ref\VoedselStore.dll

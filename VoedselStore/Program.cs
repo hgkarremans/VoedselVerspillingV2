@@ -23,12 +23,16 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>()
  .AddEntityFrameworkStores<AppIdentityDbContext>();
 
 var app = builder.Build();
-//app.MapGet("/", () => "Hello World!");
+
 app.UseStaticFiles();
 app.UseAuthentication();
 app.UseAuthorization();
 
-app.MapDefaultControllerRoute();
+
 SeedData.EnsurePopulated(app);
 IdentitySeedData.EnsurePopulated(app);
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
 app.Run();

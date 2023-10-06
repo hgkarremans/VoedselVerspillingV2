@@ -10,9 +10,15 @@ namespace VoedselVerspilling.Controllers
         {
             repository = repo;
         }
+
         public IActionResult Index()
         {
             return View(repository.GetAll);
         }
+/*        [HttpGet]
+        public IActionResult Login()
+        {
+            return View();
+        }*/
     }
 }
