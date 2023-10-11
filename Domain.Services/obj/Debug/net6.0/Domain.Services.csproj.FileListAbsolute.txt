@@ -14,4 +14,4 @@ C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\Voedsel
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Services\obj\Debug\net6.0\ref\Domain.Services.dll
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Services\obj\Debug\net6.0\Domain.Services.pdb
 C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Services\obj\Debug\net6.0\Domain.Services.genruntimeconfig.cache
-C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Services\bin\Debug\net6.0\ref\Domain.Services.dll
+C:\Users\hgkar\Documents\Avans\Jaar 2\SSWP Project\VoedselVersplillingV2\VoedselSln\Domain.Services\obj\Debug\net6.0\refint\Domain.Services.dll

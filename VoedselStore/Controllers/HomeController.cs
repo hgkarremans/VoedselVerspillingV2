@@ -1,24 +1,28 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using VoedselVerspilling.Domain.Services;
+﻿    using Microsoft.AspNetCore.Mvc;
+    using VoedselVerspilling.Domain.Services;
+using Microsoft.AspNetCore.Http;
 
 namespace VoedselVerspilling.Controllers
-{
-    public class HomeController : Controller
     {
-        private readonly IProductRepository repository;
-        public HomeController (IProductRepository repo)
+        public class HomeController : Controller
         {
-            repository = repo;
-        }
+            private readonly IProductRepository repository;
+            public HomeController(IProductRepository repo)
+            {
+                repository = repo;
+            }
 
-        public IActionResult Index()
-        {
-            return View(repository.GetAll);
-        }
-/*        [HttpGet]
-        public IActionResult Login()
-        {
+            public IActionResult Index()
+            {
+            if (User.Identity.IsAuthenticated)
+            {
+                Console.WriteLine("Logged in");
+            }
+            else
+            {
+                Console.WriteLine("Not logged in");
+            }
             return View();
-        }*/
+            }
+        }
     }
-}

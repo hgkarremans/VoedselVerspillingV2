@@ -8,6 +8,9 @@ using VoedselVerspilling.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+
+
+
 builder.Services.AddDbContext<StoreDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("VoedselStoreConnection")));
 builder.Services.AddScoped<IProductRepository, EFProductRepository>();
@@ -16,6 +19,7 @@ builder.Services.AddScoped<IEmployeeRepository, EFEmployeeRepository>();
 builder.Services.AddScoped<IMealBoxRepository, EFMealBoxRepository>();
 builder.Services.AddScoped<IStudentRepository, EFStudentRepository>();
 
+builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppIdentityDbContext>(options =>
  options.UseSqlServer(
  builder.Configuration["ConnectionStrings:IdentityConnection"]));

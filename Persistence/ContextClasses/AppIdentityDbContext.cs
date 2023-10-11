@@ -9,5 +9,7 @@ namespace VoedselStore.Infrastructure.ContextClasses
         public AppIdentityDbContext(DbContextOptions options) : base(options)
         {
         }
+        
     }
+    
 }
