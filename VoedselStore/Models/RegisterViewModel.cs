@@ -16,5 +16,8 @@ namespace VoedselStore.Models
         [Display(Name = "Wachtwoord herhalen")]
         [Compare("Password", ErrorMessage = "Wachtwoorden komen niet overeen")]
         public string PasswordConfirm { get; set; } = null!;
+            
+        [Required (ErrorMessage ="Kies een rol")]
+        public string UserRole { get; set; } = null!;
     }
 }

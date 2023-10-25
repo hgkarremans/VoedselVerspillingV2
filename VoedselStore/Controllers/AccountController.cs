@@ -4,6 +4,8 @@ using VoedselStore.Models;
 
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.Extensions.DependencyInjection;
+using System;
 
 namespace VoedselStore.Controllers
 {
@@ -14,11 +16,14 @@ namespace VoedselStore.Controllers
 
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
-        public AccountController(SignInManager<IdentityUser> signInManager, UserManager<IdentityUser> userManager)
+
+        public AccountController(SignInManager<IdentityUser> signInManager, UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _signInManager = signInManager;
             _userManager = userManager;
+            _roleManager = roleManager;
         }
 
         public IActionResult Login()
@@ -39,9 +44,27 @@ namespace VoedselStore.Controllers
                 {
 
                     await _signInManager.SignInAsync(user, isPersistent: false);
-
-
-                    return RedirectToAction("Index", "Home");
+                    if (!await _roleManager.RoleExistsAsync("Student"))
+                    {
+                        await _roleManager.CreateAsync(new IdentityRole("Student"));
+                    }
+                    if (!await _roleManager.RoleExistsAsync("Employee"))
+                    {
+                        await _roleManager.CreateAsync(new IdentityRole("Employee"));
+                    }
+                    if (model.UserRole == "Student")
+                    {
+                        await _userManager.AddToRoleAsync(user, "Student");
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, "Employee");
+                    }
+                    await _signInManager.SignOutAsync();
+                    if ((await _signInManager.PasswordSignInAsync(user, model.Password, false, false)).Succeeded)
+                    {
+                        return RedirectToAction("Index", "Home");
+                    }
                 }
 
                 foreach (var error in res.Errors)
@@ -74,6 +97,7 @@ namespace VoedselStore.Controllers
         }
         [HttpGet]
         public IActionResult Register()
+
         {
             return View();
         }

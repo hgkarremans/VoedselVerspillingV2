@@ -25,7 +25,15 @@
             <div class="mb-3">
                 <input type="password" class="form-control" asp-for="PasswordConfirm" placeholder="Wachtwoord Herhalen" id="PasswordConfirm">
             </div>
-            <input type="submit" class="btn btn-outline-success" value="Registreren">
+            <div class="mb-3">
+                <select asp-for="UserRole" class="form-control">
+                    <option value="" disabled selected>Select a role</option>
+                    <option value="Student">Student</option>
+                    <option value="Employee">Medewerker</option>
+                </select>
+            </div>
+            <button class="btn btn-primary mt-2" type="submit">Registreren</button>
+ 
 
         </form>
     </div>
