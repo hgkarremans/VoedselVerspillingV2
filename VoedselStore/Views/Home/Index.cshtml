@@ -1,9 +1,29 @@
-﻿@{
+﻿@using WebApplication1.Core.Domain.Model;
+@model List<Product>
+@{
     Layout = "_Layout";
 }
 <div class="image-banner text-center">
     <h1 class="banner-text ">Een box met lekkere producten van Avans!</h1>
 </div>
+@* <table>
+    <tr>
+
+        <th>Name</th>
+        <th>Contains Alcohol</th>
+        <th>Photo</th>
+
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.ContainsAlcohol</td>
+            <td>@product.Photo</td>
+            
+        </tr>
+    }
+</table> *@
 
 <div class="container-fluid mt-5 mb-4 ">
     <div class="row gx-4 gy-4 ">
@@ -18,7 +38,7 @@
 
 
         </di>
-        <di class="col-lg-6 col-sm-12">
+        <div class="col-lg-6 col-sm-12">
             <div class=" card p-4  ">
                 <img class="card-img-top" src="images/box.jpg" alt="Card image cap">
                 <div class="card-body">
@@ -27,6 +47,6 @@
                 </div>
             </div>
 
-        </di>
+        </div>
     </div>
 </div>

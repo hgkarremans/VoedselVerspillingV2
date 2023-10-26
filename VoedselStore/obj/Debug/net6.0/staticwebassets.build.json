@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cKjgJjB7W4NvJamrUZsGwA9pau0L7dREKyliicz1I4A=",
+  "Hash": "bsfSRRGL5X53Z4BdVOpn5G/glf7q3aIBF2avKavGHAA=",
   "Source": "VoedselStore",
   "BasePath": "_content/VoedselStore",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\favicon.ico",
-      "SourceId": "VoedselStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\",
-      "BasePath": "_content/VoedselStore",
-      "RelativePath": "favicon.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
       "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\fonts\\bootstrap-icons.css",
@@ -119,23 +102,6 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\banner.jpg",
-      "SourceId": "VoedselStore",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\",
-      "BasePath": "_content/VoedselStore",
-      "RelativePath": "images/banner.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\banner.jpg"
-    },
-    {
       "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\box.jpg",
       "SourceId": "VoedselStore",
       "SourceType": "Discovered",
@@ -170,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\images\\login_background.jpg"
     },
     {
-      "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\pancakes.jpg",
       "SourceId": "VoedselStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\",
       "BasePath": "_content/VoedselStore",
-      "RelativePath": "images/logo.png",
+      "RelativePath": "images/pancakes.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +150,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+      "OriginalItemSpec": "wwwroot\\images\\pancakes.jpg"
     },
     {
       "Identity": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\js\\site.js",

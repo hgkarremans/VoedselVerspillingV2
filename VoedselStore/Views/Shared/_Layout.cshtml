@@ -20,7 +20,7 @@
     <div>
         <nav class="navbar navbar-expand-lg navbar-light bg-light  ">
 
-            <a class="navbar-brand"  asp-action="Index">Home</a>
+            <a class="navbar-brand"  asp-controller="Home" asp-action="Index">Home</a>
             <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 
@@ -31,17 +31,13 @@
                     @if (User.IsInRole("Student"))
                     {
                         <li class="nav-item">
-                            <a class="nav-link " asp-controller="MaaltijdBox" asp-action="Gereserveerd">Mijn Reserveringen</a>
+                            <a class="nav-link " asp-controller="MealBox" asp-action="Gereserveerd">Mijn Reserveringen</a>
                         </li>
                     }
                     else if (User.IsInRole("Employee"))
                     {
-
                         <li class="nav-item">
-                            <a class="nav-link " asp-controller="MaaltijdBox" asp-action="AndereKantines">MaaltijdBoxen Andere Kantines</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link " asp-controller="MaaltijdBox" asp-action="Aanmaken">Maaltijdbox Maken</a>
+                            <a class="nav-link " asp-controller="MealBox" asp-action="Aanmaken">Maaltijdbox Maken</a>
                         </li>
                     }
                     

@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
       "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\fonts\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.css"
     },
@@ -25,10 +21,6 @@
       "PackagePath": "staticwebassets\\fonts\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\banner.jpg",
-      "PackagePath": "staticwebassets\\images\\banner.jpg"
-    },
-    {
       "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\box.jpg",
       "PackagePath": "staticwebassets\\images\\box.jpg"
     },
@@ -37,8 +29,8 @@
       "PackagePath": "staticwebassets\\images\\login_background.jpg"
     },
     {
-      "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\logo.png",
-      "PackagePath": "staticwebassets\\images\\logo.png"
+      "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\images\\pancakes.jpg",
+      "PackagePath": "staticwebassets\\images\\pancakes.jpg"
     },
     {
       "Id": "C:\\Users\\hgkar\\Documents\\Avans\\Jaar 2\\SSWP Project\\VoedselVersplillingV2\\VoedselSln\\VoedselStore\\wwwroot\\js\\site.js",

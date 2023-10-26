@@ -8,11 +8,10 @@ namespace VoedselVerspilling.Controllers
         public class HomeController : Controller
         {
             private readonly IProductRepository repository;
-            private readonly UserManager<IdentityUser> _userManager;
-            public HomeController(IProductRepository repo, UserManager<IdentityUser> userManager)
+            public HomeController(IProductRepository repo)
             {
                 repository = repo;
-            _userManager = userManager;
+
             }
 
             public IActionResult Index()
