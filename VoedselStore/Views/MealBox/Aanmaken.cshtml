@@ -47,7 +47,6 @@
             border: 1px solid #ddd;
             border-radius: 8px;
             background: #fff;
-            
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
@@ -80,10 +79,10 @@
             <div>
                 <label for="selectedProducts">Selecteer Producten:</label>
                 <select multiple id="selectedProducts" name="selectedProducts">
-                    <option value="product1">Product 1</option>
-                    <option value="product2">Product 2</option>
-                    <option value="product3">Product 3</option>
-                    <!-- Other options here -->
+                    @foreach (var product in ViewBag.Products)
+                    {
+                        <option value="@product.Id">@product.Name</option>
+                    }
                 </select>
             </div>
             <div>

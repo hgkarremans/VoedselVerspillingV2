@@ -68,5 +68,11 @@ namespace VoedselStore.Infrastructure.ContextClasses
             // Save the changes to the database
             base.OnModelCreating(modelBuilder);
         }
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        {
+            options.EnableSensitiveDataLogging();
+            options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=VoedselStore; MultipleActiveResultSets=true");
+        }
     }
+
 }
